@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/michelle_cooldown.unity
+  isLoaded: 1
+  isActive: 1

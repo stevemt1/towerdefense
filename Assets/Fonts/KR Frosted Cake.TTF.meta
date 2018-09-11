@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 188fd391d5e69425caffe561ded9974d
+timeCreated: 1489633907
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KR Frosted Cake
+  fontNames:
+  - KR Frosted Cake
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
